@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Deepakmishra9617/LeetCode/tree/master/1768-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Deepakmishra9617/LeetCode/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Deepakmishra9617/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Deepakmishra9617/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
