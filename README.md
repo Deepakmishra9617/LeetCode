@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Deepakmishra9617/LeetCode/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/Deepakmishra9617/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -31,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Deepakmishra9617/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Deepakmishra9617/LeetCode/tree/master/0242-valid-anagram) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepakmishra9617/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Deepakmishra9617/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Deepakmishra9617/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
