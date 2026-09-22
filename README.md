@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Deepakmishra9617/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Deepakmishra9617/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Deepakmishra9617/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Deepakmishra9617/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Deepakmishra9617/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Deepakmishra9617/LeetCode/tree/master/0392-is-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Deepakmishra9617/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
